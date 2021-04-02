@@ -1,0 +1,2394 @@
+Skill,Group
+journalism,9
+bashplotlib,1
+data warehousing,2
+opengraph,1
+geolocation,0
+platformio,0
+it infrastructure,0
+typography,9
+usability,0
+electricians,0
+autohotkey,0
+gamesalad,0
+visual foxpro,0
+cuisine,9
+strategic plans,9
+product knowledge,9
+debugging,0
+chardet,1
+prospecting,9
+gas fitting,9
+bulgarian,9
+shell,0
+scipy,2
+entrepreneurship,9
+renpy,0
+mathematics,2
+honcho,9
+basque,9
+accounting,9
+enaml,0
+balsamiq,0
+elasticsearch-py,1
+fastfm,1
+turbogears,1
+ruby,0
+nipy,2
+slovakian,9
+small business,9
+tox,1
+x86/x64 assembler,0
+annoy,1
+facebook marketing,9
+product management,9
+hypothesis,2
+luigi,2
+microsoft sql,2
+visual arts,9
+dns,0
+phonenumbers,1
+flask-restful,1
+bricklaying,9
+3d modelling,0
+technical writing,0
+gunicorn,1
+iso,9
+immigration,9
+punjabi,9
+pymongo,1
+filmmaking,9
+chemistry,2
+website management,0
+script install,0
+game development,0
+gardening,9
+protocols,0
+kpis,9
+pypinyin,1
+xmltodict,1
+wooey,1
+google analytics,0
+customer service,9
+swig,1
+sales experience,9
+websocket-for-python,1
+gevent,1
+jd edwards cnc,0
+marketing materials,9
+chemicals,9
+xmldataset,1
+engineering,0
+openbravo,0
+transport,9
+flanker,9
+conda,1
+management consulting,9
+xslt,0
+moment,0
+data science,2
+automated billing,0
+web scraping,"2,3,4"
+electronics,0
+curses,1
+cold fusion,9
+pyshorteners,1
+gamification,0
+watchkit,0
+ibm tivoli,0
+openssl,0
+support services,9
+civil engineering,9
+zerorpc,1
+leadership development,9
+carwashing,9
+delphi,0
+paramiko,1
+marketplace service,9
+intuit quickbooks,0
+cola,9
+pycuda,3
+concept art,9
+pyjion,1
+google chrome,0
+communication,9
+extensions / additions,0
+regular expressions,1
+theano,3
+simplexmlrpcserver,1
+robobrowser,"2,3,4"
+freezegun,1
+errbot,4
+audit,9
+forum posting,4
+thefuck,0
+mariadb,"2,3,4"
+hyde,0
+green,9
+contract management,9
+mis,0
+hair styles,9
+sixpack,2
+inbox.py,1
+golang,0
+datalife engine,"2,3,4"
+bengali,9
+seaborn,"2,3,4"
+youcompleteme,0
+aws,"2,3,4"
+medical,0
+django-haystack,1
+fake2db,0
+python-readability,1
+awesome-slugify,1
+email developer,0
+history,9
+fabric,9
+youtube-dl,0
+building consultants,9
+arrow,9
+microsoft word,9
+pycassa,1
+home automation,0
+spyder,"2,3,4"
+underwriting,9
+carpet repair / laying,9
+awesome-flask,1
+cython,1
+protoshare,0
+millwork,9
+react.js,0
+apple ibooks author,0
+urdu,9
+as-is analysis,9
+cssutils,0
+vps,0
+norwegian,9
+pycallgraph,1
+beaker,0
+operating systems,0
+surprise,9
+napalm,9
+traditional chinese (hong kong),9
+analytical skills,9
+data mining,"2,3,4"
+lifecycle,9
+video editing,0
+affiliate marketing,9
+uvloop,1
+pygeoip,1
+six sigma,9
+business coaching,9
+oauth,0
+simplejsonrpcserver,1
+modeling,"2,3,4"
+public health,9
+jdf,9
+piping,"2,3,4"
+paste,9
+business process,9
+office software,0
+ray-tracing,0
+tumblr,0
+bulk marketing,9
+fulfillment,9
+big data,"2,3,4"
+attic access ladders,9
+roofing,9
+service delivery,9
+packing / shipping,9
+delegator.py subprocesses for,1
+logging,0
+broadcast,0
+migration,9
+helpdesk,0
+swedish,9
+screenwriting,9
+wireframing,0
+cloud computing,"2,3,4"
+gap analysis,9
+3d design,0
+pathlib,1
+bootstrap,2
+presentations,9
+revenue growth,9
+solicitation,9
+appcelerator titanium,0
+linq,0
+legal,9
+damp proofing,0
+data analysis,2
+management,9
+keras,3
+untangle,0
+yoast,0
+openvms,0
+openserver,0
+pay per click,9
+mouse,0
+sharepoint,0
+opps,9
+envelopes,9
+motion graphics,0
+opencl,0
+hmap,0
+fpga,0
+flashmob,9
+hadoop,"2,3,4"
+supply chain management,9
+vlookups,0
+pyuserinput,1
+journalist,9
+cartography / maps,9
+pyinstaller,1
+actionscript,0
+heating systems,9
+quarkxpress,0
+pydal,1
+czech,9
+asbestos removal,9
+lxml,1
+coating materials,9
+ai,"2,3,4"
+mxnet,"3,4"
+windows phone,0
+configparser,0
+youtube,0
+salesforce app development,0
+postgresql,"2,3,4"
+database programming,0
+opengl,0
+ember.js,0
+jupyter,"1,2,3,4"
+instrumentation,9
+authomatic,9
+pytz,1
+cloud-init,0
+quicken,0
+pyqtgraph,1
+field sales,9
+flower,9
+social networking,9
+manufacturing design,9
+mqtt,0
+computer applications,0
+c++ programming,0
+grab,0
+network administration,0
+product design,9
+python-jwt,1
+firefox,0
+scikit-learn,2
+supplier sourcing,9
+business systems,9
+lektor,0
+purchase orders,9
+deform,0
+french (canadian),9
+translation,3
+feincms,9
+adobe photoshop,0
+unity 3d,0
+lua,0
+percol,0
+hp openview,0
+eve,0
+radar,0
+property law,9
+painting,9
+natural language,4
+simplified chinese (china),9
+tax law,9
+vue.js,0
+acquisition,"2,3"
+analyze,2
+assembly,0
+attorney,9
+landscaping,9
+ripozo,1
+recruitment,9
+pyexcel,1
+genetic engineering,9
+administrative support,9
+esengine,1
+makerbot,0
+budget,9
+alliances,9
+reviews,9
+business plans,9
+pyogre,1
+github,"1,2,3,4"
+octave,0
+litigation,9
+academic writing,9
+boto3,"1,2,3,4"
+creative writing,9
+reconcile,9
+customer facing,9
+anything goes,9
+liclipse,0
+regulatory requirements,9
+web security,0
+automation,"1,2,3,4"
+plugin,1
+leap motion sdk,0
+heroku,0
+raspberry pi,"1,2,3,4"
+solrpy,1
+auto cad,0
+illustration,9
+security clearance,9
+project planning,9
+cassandra,1
+book artist,9
+internal communications,9
+autotask,0
+interspire,0
+gps,0
+financial analysis/modeling,"2,3"
+predictive analytics,"2,3"
+opencv,"1,3"
+standard operating procedures,9
+quality standards,9
+moving,9
+django-storages,1
+geospatial,0
+palm,0
+caricature / cartoons,9
+logistics / shipping,9
+dask,"1,2,3,4"
+biology,9
+minitlab,"2,3"
+salesforce.com,0
+freelancerapi,0
+dart,0
+estonian,9
+queries,2
+instagram,9
+game consoles,9
+mypy,1
+pyfiglet,1
+industry experience,9
+investigations,9
+supervisory experience,9
+sdlc,9
+malay,9
+management experience,9
+financing,9
+netius,1
+adobe flash,0
+python-slugify,1
+moviepy,1
+home organization,9
+web search,0
+jython,1
+spark,"1,2,3,4"
+py2app,1
+qlikview,0
+steam api,0
+startups,9
+wiki,0
+banking,9
+vmware,0
+therapeutic,9
+epub,0
+python-nameparser,4
+expenses,9
+portfolio management,9
+linkedin,9
+resource management,9
+corel draw,0
+eventlet,9
+django-activity-stream,1
+samsung accessory sdk,0
+rq,1
+cocoa,9
+filipino,9
+spiff,0
+surfboard design,9
+imaging,9
+tamil,9
+construction,9
+bottle,9
+hotels,9
+objective c,0
+russian,9
+property management,9
+keyboard,0
+front-end,0
+apache ant,0
+rfps,9
+merchandising,9
+tv,9
+transcription,9
+malayalam,9
+microstation,0
+client relationships,9
+driving record,9
+panda3d,"1,2"
+chef configuration management,9
+transactions,9
+architecture,9
+cpr,9
+budget management,9
+livecode,0
+structural engineering,9
+ukrainian,9
+httpie,0
+c++,0
+ms project,0
+sql,"2,3"
+mistune,1
+sourcing,0
+taobao api,0
+employment law,9
+pymc,1
+reports,9
+software architecture,0
+ning,0
+scrum development,0
+research projects,9
+httpretty,0
+twython,1
+artificial intelligence,"2,3,4"
+solution architecture,0
+talent acquisition,9
+customer experience,9
+mobile phone,0
+pythonnet,1
+visualization,"2,3"
+html5lib,1
+financial management,9
+stakeholder management,9
+electrical engineering,9
+funcy,1
+dynamic environment,0
+django-compressor,1
+software engineering,0
+robot,0
+google web toolkit,0
+staffing,9
+internal audit,9
+governance,9
+psd to html,0
+lan,0
+git,"1,2,3,4"
+webassets,0
+industrial design,9
+metro,9
+inspections,9
+pipenv,"1,2,3,4"
+distribution,9
+dos,0
+employee relations,9
+pygal,1
+cherrypy,1
+partnership,9
+digital marketing,0
+apex,0
+dhcp,0
+django,1
+risk management,9
+microsoft office suite,0
+shopify templates,0
+journal entries,9
+health,9
+open journal systems,0
+flyer design,9
+mysql,"2,3,4"
+life cycle,9
+relationship building,9
+pathpicker,0
+banner design,9
+food takeaway,9
+oscommerce,0
+pyparsing,1
+python-prompt-toolkit,1
+solaris,0
+internal customers,9
+alibaba,9
+thai,9
+visa / immigration,9
+click,9
+bathroom,9
+weebly,0
+accounts receivable,9
+pivot tables,2
+ad words,9
+kannada,9
+pendulum,9
+blog,0
+physical security,9
+customer support,9
+transportation,9
+oculus mobile sdk,0
+django-cms,1
+computer software,0
+argus monitoring software,0
+customer requirements,9
+line_profiler,9
+mako,9
+business cards,9
+xgboost,2
+grunt,0
+beautifulsoup,1
+hug,0
+sublimejedi,1
+psutil,1
+prototyping,0
+glass / mirror / glazing,9
+bower,0
+building surveyors,9
+software testing,0
+statsmodels,2
+winpython,1
+security,9
+iphone,0
+cuda,"2,3,4"
+logbook,9
+unoconv,0
+furniture design,9
+product quality,9
+corporate identity,9
+network automation,0
+ibm bpm,0
+txpostgres,1
+scripting,1
+call center,9
+siebel,0
+pysolr,1
+bigcommerce,9
+django-xadmin,1
+pandas,"1,2,3,4"
+microsoft excel,2
+buyer sourcing,0
+pattern matching,2
+clpython,1
+defining solutions and scope,9
+virtuozzo,"2,3,4"
+creative design,9
+photo editing,9
+wolfram,0
+correspondence,9
+maltese,9
+aeronautical engineering,9
+diskcache,0
+welsh,9
+.net,0
+mural painting,9
+id3reader,0
+psychology,9
+business writing,9
+textile engineering,9
+gooey,9
+business catalyst,9
+boonex dolphin,0
+qualtrics survey platform,9
+sql server,0
+photoshop design,9
+chrome os,0
+landscape design,9
+newspaper,9
+active directory,0
+unp,0
+quality control,9
+hospital,9
+real estate,9
+microsoft expression,0
+microsoft hololens,0
+3d model maker,0
+magic leap,0
+building designer,9
+redhat,0
+face recognition,"2,3"
+ftfy,1
+weasyprint,1
+licensing,1
+logistics,9
+haskell,0
+social media marketing,9
+google maps api,0
+xml,0
+dating,9
+cornice,9
+technical support,9
+marketing,9
+book writing,9
+pega prpc,0
+freelance,9
+nintex forms,9
+sandman,0
+asp,0
+indesign,0
+embedded software,0
+profiling,9
+clint,0
+laundry and ironing,9
+lotus notes,0
+outreach,9
+pythonlibs,1
+pybuilder,1
+ios,0
+varnish cache,0
+data entry,2
+renewable energy design,9
+pysdl2,1
+housework,0
+pypdf2,1
+django-oscar,1
+variances,9
+python-currencies,1
+pelican,1
+apple safari,0
+key performance indicators,9
+gaap,9
+conversion,9
+copy typing,9
+venv,1
+grumpy,1
+project delivery,9
+vietnamese,9
+general ledger,9
+nude.py,1
+internet security,0
+treq,1
+apsw,0
+phonegap,0
+furniture assembly,9
+tinydb,0
+microsoft word,0
+try,0
+research,9
+pygobject,1
+building,9
+hashids,1
+computer help,9
+asp.net,0
+schedule,9
+m3u8,0
+travel arrangements,9
+public relations,9
+xlwings,1
+article rewriting,9
+stripe,0
+documentation,9
+umbraco,0
+catch phrases,4
+factory_boy,1
+regulatory,9
+vim,0
+furl,0
+financial planning,9
+zend,0
+lithuanian,9
+python-sql,1
+help desk,9
+salesforce,0
+perl,0
+pagan,0
+oursql,0
+wireframes,0
+django-guardian,1
+mixer,0
+4d,0
+peewee,0
+erp,9
+mamba,0
+jedi-vim,0
+user stories,9
+ply,1
+financial statements,9
+videography,0
+asyncio,1
+logo design,9
+complex projects,9
+admissions,9
+drains,9
+flask-api-utils,1
+virtualized networks,0
+pcb layout,0
+joblib,1
+building architecture,9
+internet marketing,9
+strategic direction,9
+d (programming language),0
+apscheduler,0
+stream-framework,1
+print,1
+adobe fireworks,0
+moodle,0
+templates,9
+pentaho,"2,3,4"
+jsp,0
+prolog,0
+bluetooth low energy (ble),0
+geology,9
+mimetypes,1
+remote-pdb,1
+hindi,9
+cpg,9
+webargs,0
+wordpress,0
+analytical,2
+httplib2,1
+whoosh,9
+scheme,9
+maya,0
+nylas,0
+photography,9
+coaching,9
+appliance repair,9
+investment research,9
+data center,"2,3,4"
+toolz,1
+xamarin,0
+cartridge,9
+fiction,9
+pyicu,1
+subversion,0
+waitress,9
+vb.net,0
+google adsense,0
+os,0
+xlsxwriter,1
+facebook,0
+demolition,0
+audio services,0
+pivot,0
+change management,9
+xpages,0
+business intelligence,9
+system,9
+nintex workflow,0
+requests,9
+pyaudioanalysis,1
+newsletters,9
+ctypes,1
+personal development,9
+marshmallow,0
+django-crispy-forms,1
+geotechnical engineering,9
+testing / qa,1
+search engine marketing,9
+polish,9
+autobahnpython,1
+model_mommy,1
+genshi,1
+danish,9
+email handling,9
+administration,9
+guttering,9
+google earth,0
+filing,9
+internal stakeholders,9
+computer security,0
+django-shop,1
+quickbooks,9
+pattern,"2,3,4"
+account management,9
+financial models,"2,3"
+higher education,9
+axure,0
+tomorrow,9
+financial controls,9
+fashion design,9
+configobj,1
+ipdb,1
+sympy,1
+pygram,1
+landscaping / gardening,9
+database administration,0
+short stories,9
+magento,0
+microsoft visio,0
+crm,0
+hotel,9
+pysec,1
+fencing,9
+python-qrcode,1
+swift,0
+angular.js,0
+quickbase,0
+flexx,9
+microcontroller,0
+quokka,0
+vendor management,9
+visual,9
+pattern making,"2,3,4"
+grease monkey,0
+pickup,9
+inventory,9
+sops,9
+xquery,0
+adobe indesign,0
+english,9
+english grammar,9
+google adwords,0
+desktop support,9
+cross functional,0
+arabic,9
+facebook-sdk,0
+ikea installation,9
+japanese,9
+ruby on rails,0
+symfony php,0
+manage projects,9
+cliff,0
+sencha / yahooui,0
+vuforia,0
+client service,9
+data analytics,"2,3,4"
+monetdb,0
+mining engineering,9
+test cases,0
+shell script,0
+vehicle signage,9
+interiors,9
+cassandra-python-driver,1
+annual budget,9
+travel writing,9
+customer-facing,9
+aviation,9
+zoho,0
+libffm,0
+architectures,0
+sign design,9
+audiolazy,1
+case management,9
+cakephp,0
+open cart,9
+caniusepython3,1
+bitbake,0
+apple compressor,0
+due diligence,9
+coding,0
+mobile app testing,0
+nginx,0
+viral marketing,9
+performance metrics,"2,3,4"
+typescript,0
+supervisor,9
+web2py,1
+report preparation,9
+awesome-sphinxdoc,1
+emacs,0
+happybase,"1,2,3,4"
+elearning designer,9
+risk assessment,9
+mmorpg,9
+pyyaml,1
+ino,9
+google drive,9
+restful,9
+arduino,"1,2,3,4"
+papiamento,9
+wtforms,9
+operational excellence,9
+c# programming,0
+future state assessment,9
+pencilblue cms,0
+vbulletin,0
+t-shirts,9
+romanian,9
+carpentry,9
+urwid,1
+analyzing data,"1,2,3,4"
+paypal api,0
+automotive,9
+elasticsearch,"2,3,4"
+finance,9
+neupy,"1,3"
+mysqlclient,"2,3"
+microbiology,9
+sound design,9
+mininet,0
+forex-python,1
+json,0
+content writing,9
+passlib,1
+gimp,0
+operations management,9
+tensorrec,"1,3"
+system administration,0
+client services,9
+scheduling,9
+amazon web services,"1,2,3,4"
+django-oauth-toolkit,1
+catia,0
+database development,0
+twitter,0
+bokeh,1
+fda,9
+ubuntu,0
+matlab,"2,3,4"
+myspace,0
+voluptuous,9
+php,0
+tkinter,1
+internet research,9
+woocommerce,0
+general office,0
+purl,0
+twisted,9
+snownlp,4
+balustrading,9
+smarty php,0
+coala,1
+workflows,9
+microsoft sql server,"2,3,4"
+pinterest,9
+serbian,9
+django-rest-framework,1
+dh-virtualenv,1
+lassie,1
+windows ce,0
+nose,1
+segmentation,3
+gopro,9
+telemarketing,9
+python-patterns,1
+dogpile.cache,0
+pyocr,"1,2,3"
+html2text,1
+txredis,0
+mortgage brokering,9
+user interface design,0
+doublex,1
+pyston,1
+cobol,0
+elearning,9
+binary analysis,"2,3"
+cffi,1
+parallels automation,"1,2,3,4"
+pyzmq,1
+start-up,9
+xojo,0
+macedonian,9
+information technology,9
+landing pages,9
+python-goose,1
+cryptography,0
+flask-api,1
+datasets,"1,2,3,4"
+installation,9
+status reports,9
+knockout.js,0
+technical knowledge,9
+webos,0
+whmcs,0
+paytrace,0
+deposits,0
+gpgpu,"3,4"
+pyspark,"1,2,3"
+project management skills,9
+kinect,0
+virtuemart,0
+servers,0
+simpy,1
+vtiger,0
+music,9
+django-wordpress,1
+hardware,0
+cloud,"1,2,3,4"
+investigation,9
+sculpturing,9
+s4cmd,0
+grequests,1
+proofreading,9
+petroleum engineering,9
+prestashop,0
+voice artist,9
+feedparser,1
+unittest,0
+ptpython,1
+virtualenv,1
+sales operations,9
+unix,0
+climate sciences,9
+interior design,9
+sphinx,0
+customer management,9
+insurance,9
+django-viewlet,1
+apache solr,0
+standardization,9
+website design,0
+pudb,1
+django-suit,1
+mingus,0
+cleaning domestic,9
+dds,0
+employee engagement,9
+physics,9
+user interface / ia,0
+financial performance,9
+titanium,"1,2"
+hospitality,9
+telephone handling,9
+electronic forms,9
+wheel,9
+trade shows,9
+interpreter,9
+metatrader,9
+nosql,0
+verilog,0
+prototype,0
+pdb++,1
+python-lambda,1
+sqlparse,0
+arts / crafts,9
+teaching,9
+tech support,9
+english spelling,9
+watchdog,0
+bleach,9
+industrial engineering,9
+e-commerce,9
+end user,0
+computer graphics,0
+3ds max,0
+dthreejs,0
+jira,0
+project management,9
+pox,9
+asset management,9
+talkbox,9
+bandersnatch,0
+flake8,1
+repairs,9
+courses,9
+parser,1
+information security,0
+docopt,0
+poetry,9
+elasticsearch-dsl-py,"2,3"
+game design,0
+microsoft xdk,0
+cross-functional team,9
+english (uk),9
+wand,9
+django-cache-machine,1
+cost effective,9
+shopping carts,9
+retail,9
+advertising,9
+matrix,"2,3"
+hebrew,9
+django-rules,1
+swot analysis,9
+daily operations,9
+planning and enacting cash-flows,9
+django-allauth,1
+kotti,1
+pl/sql,"2,3"
+chronyk,1
+autodesk inventor,9
+flask-assets,1
+google plus,0
+pingo,9
+applescript,0
+android,0
+httmock,0
+iis,0
+editorial,9
+plumbing,9
+openscenegraph,0
+3d animation,0
+metrics,"2,3,4"
+plone,0
+scons,0
+django-cacheops,1
+python-magic,1
+jsonschema,1
+django-schedule,0
+information management,9
+cookiecutter,0
+javascript,0
+pygments,1
+cocos2d,0
+after effects,0
+access database,0
+materials engineering,9
+web services,0
+process improvement,9
+make up,9
+ggplot,"1,2,3,4"
+curdling,9
+marketing programs,9
+carteblanche,9
+implicit,9
+risk assessments,9
+saws,9
+video broadcasting,9
+raw materials,9
+c�(programming language),0
+circuit design,0
+celery,0
+business process re-engineering,9
+mailchimp,0
+config,0
+flask-restless,1
+r programming language,"2,3,4"
+werkzeug,0
+django-pipeline,1
+locksmith,0
+spanish,9
+forecasting,"1,2,3"
+beverage,9
+vcr.py,1
+docker,"1,2,3,4"
+cement bonding agents,9
+django-elastic-transcoder,1
+sales management,9
+order processing,9
+sales,9
+buildout,0
+xoops,0
+grappelli,9
+django-bootstrap3,1
+tinytag,1
+dari,9
+kitchen,9
+pytesseract,"1,2,3"
+bookkeeping,9
+polyglot,0
+blackberry,0
+video upload,0
+strategic initiatives,9
+finale / sibelius,9
+sketch,9
+project scheduling,9
+pytest,1
+financial reporting,9
+business strategy,9
+label design,9
+consulting,9
+training,9
+application support,9
+windows,0
+quads,9
+xmpp,1
+cisco,0
+django-simple-captcha,1
+windows mobile,1
+latvian,9
+nokia,0
+engagement,9
+mrjob,1
+lighting,9
+yiddish,9
+business continuity,9
+hermescache,0
+faker,9
+modoboa,0
+python,1
+instructional design,9
+api,0
+apple logic pro,0
+you-get,1
+strong analytical skills,9
+grant writing,9
+joomla,0
+bmc remedy,0
+cement,9
+pyretic,1
+invitation design,9
+package design,9
+plc / scada,0
+nosql couch / mongo,0
+pygraphviz,1
+sdx,0
+psycopg2,1
+pynacl,1
+french,9
+windows server,0
+patents,9
+mkdocs,0
+eyed3,1
+fundraising,9
+cloud management,"2,3,4"
+apis,0
+kpi,9
+articles,9
+human resources,9
+javafx,0
+rocket engine,0
+finite element analysis,9
+financial research,9
+3d rendering,0
+adobe livecycle designer,0
+antenna services,9
+python-social-auth,1
+nuitka,1
+virtualenvwrapper,1
+xlwt / xlrd,1
+tfs,"2,3,4"
+obspy,"1,2,3"
+erlang,0
+design,9
+consulting experience,9
+biopython,"1,2,3"
+pydub,1
+statistics,"2,3"
+sanitize,9
+cerberus,9
+mailwizz,0
+magic,9
+data management,"1,2,3,4"
+shopping,0
+regulations,0
+markdown,"1,2,3,4"
+facepy,1
+ad planning / buying,9
+timeside,9
+python-oauth2,1
+p,0
+multiprocessing,"1,3"
+pytorch,"1,3"
+asterisk pbx,0
+gspread,1
+localshop,9
+adobe dreamweaver,0
+stationery design,9
+asphalt,9
+diesel,9
+business management,9
+floor coatings,9
+report writing,9
+geojson,"2,3"
+python-mode,1
+turkish,9
+sticker design,9
+microsoft outlook,0
+networkx,"1,2"
+chemical engineering,9
+concept design,9
+ironpython,1
+technical issues,9
+test plans,9
+blog design,9
+pet sitting,9
+clojure,0
+manufacturing,9
+sh,0
+periscope,0
+cre loaded,0
+property development,9
+specifications,9
+product owner,9
+s3cmd,"2,3,4"
+geopy,"1,2,3"
+product marketing,9
+relationship management,9
+bosnian,9
+talent management,9
+hp alm,0
+commissioning,9
+etsy,0
+crystal reports,9
+plesk,0
+portuguese,9
+delorean,9
+house cleaning,9
+capture nx2,0
+android wear sdk,0
+textract,4
+energy,9
+broadcast engineering,9
+human resource,9
+cactus,9
+rauth,1
+ajenti,0
+webmethods,0
+compliance,9
+django-taggit,1
+ibm websphere transformation tool,0
+ponyorm,1
+haul,9
+sarge,"2,3,4"
+supervising,"2,3,4"
+tibco spotfire,"2,3"
+pulsar,9
+recruit,9
+django-tastypie,1
+app designer,0
+regulatory compliance,9
+r (programming language),"2,3,4"
+pdf,9
+jinja-assets-compressor,0
+jinja2,0
+parallel processing,"1,2,3,4"
+process,9
+ibeacon,0
+xero,0
+altair,0
+machine learning,"1,2"
+pyjwt,1
+pypy,1
+workshops,9
+nose2,0
+simpleq,0
+voicexml,0
+lawn mowing,9
+redis,0
+freeswitch,0
+android honeycomb,0
+caffe,"3,4"
+google webmaster tools,0
+jieba,0
+positioning,9
+real-time,9
+blaze,9
+vertexfx,0
+fileconveyor,1
+video services,9
+3d printing,0
+fuzzywuzzy,1
+java,0
+poster design,9
+silverlight,0
+enterprise resource planning,9
+mvc,0
+geodjango,1
+difflib,1
+powershell,0
+profig,0
+schematics,0
+scikit-video,"1,2"
+industry trends,9
+analytics,2
+oauthlib,0
+handyman,9
+drones,9
+pgcli,0
+legal writing,9
+zodb,1
+software installation,9
+node.js,0
+link building,9
+website testing,0
+zendesk,0
+micawber,9
+pavement,9
+vhdl,0
+tizen sdk for wearables,0
+codeigniter,0
+communications,9
+cooking / recipes,9
+marmir,9
+tableau,"2,3"
+branding,9
+agronomy,9
+plan,9
+map reduce,"2,3"
+visual basic for apps,0
+spelling,9
+event staffing,9
+article submission,9
+software development,0
+wireless,0
+scikit-image,"2,3"
+build relationships,9
+parallax scrolling,0
+fanstatic,9
+djedi-cms,0
+business analysis,9
+sales goals,9
+italian,9
+yaml,0
+product development,9
+quality management,9
+home design,9
+geoip,0
+ajax,0
+co-op,0
+concreting,9
+email marketing,9
+acquisitions,9
+hungarian,9
+falcon,9
+ms excel,0
+textblob,"1,4"
+retention,9
+audioread,9
+as400 / iseries,0
+pyro,1
+format / layout,9
+computer science,0
+plyvel,1
+valid drivers license,9
+itil,0
+voip,0
+appliance installation,0
+visual basic,0
+awnings,9
+shortuuid,1
+market research,9
+building certifiers,9
+cad/cam,0
+rdkit,0
+filemaker,9
+google sketchup,9
+microsoft sharepoint,0
+ordering,9
+quantum,0
+phone support,9
+brand,9
+receivables,9
+iso9001,9
+invoices,9
+internal controls,9
+casperjs,0
+lean,0
+network configuration,0
+pdoc,1
+wan/lan,0
+fortran,0
+garageband,9
+agile development,0
+vispy,"1,2,3,4"
+edx,9
+widgy,9
+prezi,9
+zappa,9
+app developer,0
+mimesis,9
+cpython,1
+ebay,9
+poet,9
+decking,9
+routing,9
+google cardboard,0
+adobe air,0
+troubleshooting,9
+slogans,9
+peachpy,1
+invoicing,9
+system admin,0
+js,0
+pexpect,0
+myob,0
+levenshtein,4
+soap,1
+yarn,0
+financial analysis,9
+business issues,9
+valuation / appraisal,9
+intranet,0
+external partners,9
+procurement,9
+ecommerce,9
+telecom,9
+augmented reality,0
+txzmq,0
+cfa,9
+gunnery,9
+google app engine,0
+value proposition,9
+colorama,1
+scrum,"1,2,3,4"
+slugify,0
+statistical analysis,"2,3"
+business cases,9
+cleaning upholstery,9
+python-future,1
+latex,"2,3,4"
+auditing,9
+inventory management,9
+sewing,9
+presentation,9
+tornado,1
+scrapy,"1,2,3,4"
+xpinyin,"1,4"
+laravel,0
+infographics,0
+lisp,0
+pycco,1
+benchmark,"1,2,3,4"
+analysis,9
+conversion rate optimisation,9
+astropy,9
+vprof,1
+expression engine,0
+django-simple-spam-blocker,1
+drafting,9
+traditional chinese (taiwan),9
+astrophysics,9
+calculus,9
+recruiting,9
+wikipedia,9
+yagmail,0
+mac os,0
+information system,0
+flow charts,9
+threading,0
+amqp,0
+in-store,9
+bpo,9
+pest control,9
+langid.py,"1,4"
+business development,9
+uwsgi,0
+zookeeper,0
+realbasic,0
+carports,9
+dutch,9
+flask-admin,1
+howdoi,1
+financial markets,9
+microsoft powerpoint,9
+shopify,0
+storage area networks,0
+apistar,0
+zipline,0
+fabrication,9
+python-user-agents,1
+marrow,0
+j2ee,0
+splunk,0
+weddings,9
+continuous improvement,9
+proposal,9
+tekla structures,0
+accounts payable,9
+teststand,0
+icon design,9
+matplotlib,"1,2,3,4"
+process development,9
+pymysql,"1,2,3"
+product sourcing,9
+adobe captivate,9
+project plan,9
+billing,9
+graphic design,9
+data collection,"2,3,4"
+pytime,1
+wxpython,1
+pygame,1
+numba,"1,2,3"
+cgi,9
+product line,9
+wufoo,9
+circuits,0
+solidworks,9
+pyechonest,1
+negotiation,9
+audio,9
+nanotechnology,9
+publishing,9
+pyquery,1
+kaban,9
+pymssql,1
+vb script,0
+django-socketio,1
+pharmacy,9
+apple motion,9
+network design,0
+code2flow,0
+hris,9
+final cut pro,9
+reconciliation,9
+general labor,9
+marketing strategy,9
+counsel,9
+pipelinedb,"2,3,4"
+volusion,9
+decoration,9
+nupic,2
+classifieds posting,9
+saas,"2,3"
+devpi,1
+seo,9
+mechanicalsoup,1
+microsoft access,0
+debian,0
+rest,0
+grails,0
+user experience design,0
+reporting,9
+media relations,9
+pywin32,1
+kivy,1
+photoshop coding,9
+editing,9
+homekit,9
+colander,9
+ebooks,9
+advertisement design,9
+gmail,9
+updates,9
+product descriptions,9
+peoplesoft,9
+elpy,1
+py2exe,1
+scapy,1
+memory_profiler,1
+scientific research,9
+sqlalchemy,1
+six,1
+cost reduction,9
+sortedcontainers,1
+croatian,9
+when.py,1
+safety,9
+chordiant,0
+meteorjs,0
+rwd,0
+dateutil,0
+supply chain,9
+remote sensing,9
+pyenv,1
+excel,0
+sentry,0
+ceilings,0
+hive,"2,3,4"
+css,0
+delivery,9
+drupal,0
+time management,9
+on-boarding,9
+dotnetnuke,0
+microsoft exchange,0
+responses,9
+finnish,9
+unicode-slugify,0
+test case,0
+azure,"2,3,4"
+stackless,1
+eliot,0
+flask,1
+linear programming,"1,2"
+imgseek,0
+cash flow,9
+afrikaans,9
+sqlite,"2,3"
+babel,0
+unidecode,1
+typo3,0
+pmp,0
+numpy,"1,2,3"
+spanish (spain),9
+bsd,0
+greek,9
+linnworks order management,9
+uml design,0
+pyopengl,1
+puppet,0
+autocad,0
+public policy,9
+spss statistics,"2,3"
+christmas,9
+airbnb,9
+awesome-django,1
+sumy,9
+cinema 4d,0
+mycli,0
+orange,0
+pydy,0
+objective-c,0
+digital design,9
+splinter,0
+tci/ip,0
+legal research,9
+valideer,"1,2"
+selenium,"1,2,3,4"
+html5,0
+google-api-python-client,1
+budgeting,9
+data processing,"1,2,3"
+word processing,4
+bpython,1
+networking,9
+quality assurance,9
+payments,9
+jad,0
+parallels desktop,0
+storyboard,0
+doit,9
+affiliate,9
+bcbio-nextgen,"1,2,3"
+html,0
+fapws3,1
+imghdr,1
+redshift,"2,3,4"
+ui,0
+samsung,0
+veeam,0
+yard work / removal,9
+life coaching,9
+flyscreens,9
+event planning,9
+sanction,9
+pip-tools,1
+mobile,0
+flash 3d,0
+improvement,9
+portia,9
+bamboo flooring,9
+360-degree video,0
+yii,0
+visio,0
+nutrition,9
+squid cache,0
+ptvs,1
+cubecart,0
+tattoo design,9
+online writing,9
+root cause,9
+doitlive,1
+django-remote-forms,1
+huey,9
+removalist,9
+tax,9
+human sciences,9
+animation,9
+albanian,9
+telugu,9
+biztalk,0
+tablets,0
+certification,9
+mechanical engineering,0
+ocr,"2,3"
+math,"2,3"
+scala,"2,3"
+emea,9
+clothesline,9
+bjoern,1
+rocket,9
+covers / packaging,9
+asciimatics,0
+investigate,9
+locust,0
+pyside,1
+web hosting,9
+air conditioning,9
+strategy,9
+call control xml,9
+virtual worlds,9
+flex,0
+pyspider,1
+j2me,0
+beets,0
+pylibmc,1
+pre-production,0
+visual merchandising,9
+growth hacking,9
+workflow,0
+healthcare,9
+biotechnology,9
+mlm,9
+yahoo! store design,9
+cclib,0
+pick multivalue db,0
+bitcoin,9
+flooring,9
+labview,0
+symbian,0
+demiurge,0
+contracts,9
+business object,9
+express js,0
+pybarcode,1
+vowpal_porpoise,"1,2,3,4"
+cooking / baking,9
+phone calls,9
+markupsafe,1
+telephus,0
+indonesian,9
+zen cart,9
+less/sass/scss,"2,3"
+sas,"2,3"
+process improvements,9
+development activities,9
+openpyxl,1
+program development,9
+researching,9
+post-production,9
+oracle,0
+csvkit,0
+expense tracking,9
+frames / trusses,9
+forum software,0
+software development life cycle,0
+construction monitoring,9
+imovie,9
+pylint,1
+pypattyrn,1
+commercial cleaning,9
+dynamics,9
+fn.py,"1,2,3"
+mvp,9
+clips,9
+snapchat,9
+wsgi-compatible,0
+experimental,9
+proposal/bid writing,9
+sap,2
+rtos,0
+socket io,0
+financial reports,9
+jabber,0
+german,9
+pyramid,1
+toga,0
+py2neo,1
+bccb,9
+uniout,9
+alipay,9
+catalan,9
+writing,9
+slovenian,9
+apple watch,9
+purchasing,9
+social engine,9
+amazon kindle,9
+on-call,9
+schedules,9
+pyautogui,1
+sci,"1,2,3"
+role change,9
+consulting services,9
+social media,9
+inventory controls,9
+aws-cli,"2,3,4"
+partnerships,9
+analyze data,"2,3"
+windows api,0
+squarespace,0
+redis-py,1
+disposals,9
+benchmarking,"1,2,3,4"
+reportlab,1
+cad,0
+education / tutoring,9
+pdfminer,1
+website,9
+travel,9
+wdb,0
+mango db,0
+tensorflow,"3,4"
+equipment hire,9
+pycharm,1
+leads,9
+press releases,9
+mrq,9
+jquery / prototype,0
+medical writing,9
+red hat,0
+pr,9
+linux,0
+economics,9
+modx,0
+mining,"2,3,4"
+korean,9
+vendors,9
+ghostwriting,9
+google website optimizer,0
+unit4 business world,0
+saltstack,0
+organizational change management,9
+orator,9
+awesome-sqlalchemy,"1,2"
+rfp,9
+google cloud storage,"2,3,4"
+anaconda,"1,2"
+user experience,0
+urllib3,1
+tally definition language,0
+python-jws,1
+hbase,2
+adobe lightroom,0
+thumbor,9
+mechatronics,9
+non-profit,9
+digital media,0
+blog install,0
+windows 8,0
+pyglet,1
+feng shui,9
+adobe creative suite,0
+crossbar,9
+fitness,9
+wpf,9
+audio production,9
+experiments,9
+autodesk revit,0
+db2,0
+international,9
+pylama,1
+jewellery,9
+microsoft office,0
+microsoft access,0
+adobe illustrator,0
+flask-oauthlib,1
+agile,0
+tinkerer,1
+cs-cart,0
+python-markdown,1
+pynsist,1
+performance improvement,9
+robotics,9
+data quality,"2,3,4"
+gensim,4
+taskflow,0
+r,"2,3,4"
+lamson,0
+vectorization,"2,3,4"
+medical device,9
+backbone.js,0
+unipath,9
+sublime,0
+micropython,1
+fashion modeling,9
+meinheld,1
+c programming,0
+ux,0
+mezzanine,9
+brackets,9
+brochure design,9
+marketing plans,9
+tiling,9
+adobe premiere pro,9
+restless,0
+pyqt,1
+voice talent,9
+c#,0
+commercials,9
+pillow,"1,2,3"
+pangu.py,4
+short_url,1
+operations,9
+python-docx,1
+wagtail,0
+shoop,9
+pharmaceutical,9
+product launch,9
+algorithms,0
+awesome-pyramid,1
+nltk,4
+gis,0
+genealogy,9
+amazon fire,0
+zbrush,0
+apache,0
+telecommunications engineering,0
+cytoolz,1
+imbox,0
+startup,9
+payroll,9
+python-modernize,1
+ionic framework,0
+streamparse,1
+program management,9
+ipad,9
+sports,9
+sugarcrm,0
+engineering drawing,9
+business planning,9
+speech writing,9
+c,0
+virtual assistant,"2,3"
+ibm,0
+johnny-cache,0
+mysql-python,1
+usability testing,0
+open source,0
+python-decouple,1
+warehouse,0
+clean technology,9
+relatorio,1
+hire me,9
+mortgage,9
+english (us),9
+cms,0
+etl,"2,3,4"
+brain storming,9
+path.py,1
+copywriting,9
+pip,1
+dejavu,0
+openstack,0
+windows desktop,0
+mock,0
+rapidweaver,0
+test automation,0
+business stakeholders,9
+psd2cms,0
+merchant,9
+email,9
+pywebview,1
+ansible,0
+pickledb,0
+fabtools,0
+django-countries,1
+content,9
+tablib,"1,2,3"
+odoo,0
+aerospace engineering,9
+portuguese (brazil),9
+nikola,0
+law enforcement,9
+outsourcing,9
+simplecv,"2,3"
+apache-libcloud,0
+testing,0
+policies,9
+sanic,1
+wix,0
+database,0
+forecasts,"2,3"
+video production,0
+resumes,9
+bank reconciliation,9
+spacy,4
+lightfm,0
+spreadsheets,0
+wifi,0
+katz-backoff model,4
+bi-directional rnn,4
+deep rnn,"3,4"
+rnn,4
+bptt,4
+vanishing gradient,4
+teacher forcing,4
+pair encoding,4
+lstm,"3,4"
+rnn,"3,4"
+gru,"3,4"
+non-teacher forcing,4
+oce,4
+word piece model,4
+based likelihood,4
+greedy search,4
+subword regularization,4
+em algorithm,4
+machine translation,4
+recurrent model,"3,4"
+google sentence piece,4
+convolutional model,"3,4"
+n-gram,4
+subword tokenizing based nmt,4
+textcnn channel,4
+copying mechanism,4
+dcnn,4
+oov problem slove,4
+recursive model,4
+syntatically-untied rnn,4
+named entity recognition,4
+attention mechanism,4
+rntn,4
+coreference resolution,4
+matrix-vector rnn,4
+natural language processing,4
+skip-thought,4
+self-attention,4
+scale-dot product attention,4
+bleu score,4
+model positional encoding,4
+poswise feedforwardnet,4
+distributed representation,4
+unsupervised machine translation,4
+reading comprehension,4
+machine multi-head attention,4
+hierarchical softma,4
+masked multi-head atenton,4
+negative sampling,4
+rouge score,4
+cost method,4
+dialogue systems,4
+nnlm embedding,4
+cbow,4
+word2vec,4
+2 layers lstm,4
+pretrained for embedding,4
+language modelling,4
+word embedding,4
+state of the art,4
+model pretraining-finetuning,4
+embedding,4
+transformer based model,4
+relative positional encoding,4
+openaal-gpt,4
+auxiliary task head,4
+segment-level recurrence with state reuse,4
+transformer xl,4
+transformer,4
+bert,4
+masking language model,4
+two-stream self-attention for target-a,4
+xlnet,4
+next sentence predict,4
+nsp,4
+cls,4
+mask,4
+query stream,4
+permutation language model,4
+universal transformer,4
+inductive bias of rnn,4
+segment recurrence mechanism,4
+openal-gpt2,4
+gpt-1,4
+gpt-2,4
+gpt-3,4
+zero-shot learning,4
+not finetuning,4
+roberta,4
+skip nsp,4
+large batch,4
+distiibert,4
+lighter bert,4
+summarization,4
+pos tagging,4
+parsing,4
+sentiment analysis,4
+question answering,4
+text generation,4
+co-occurrence matrix,4
+encoder-decoder model,4
+seq2seq,4
+glove,4
+logistic regression,"2,4"
+lasso regression,"2,4"
+l-tokenizer,4
+l-r graph,4
+naive bayes classifier,"2,4"
+gmm,4
+max score tokenizer,4
+bayesian gmm,4
+word segmentation,4
+support vector machine,"2,4"
+hierarchical clustering,"2,4"
+regex tokenizer,4
+byte pair encoding,4
+unsupervisor dbscan,"2,4"
+tokenizer,4
+subword tokenizer,4
+subword regularization,4
+term vector representation,4
+tf-idf,4
+ride,4
+unsupervisor,4
+bag of words model,4
+distance,4
+similarity,4
+branching entropy,4
+noun extraction,4
+out of vocabulary,4
+pagerank,4
+cosine,4
+lda,4
+ldi,4
+ranking algorithm,4
+morphological analysis,4
+sparse coding,4
+analysis procedur,4
+part-of-speech tagging,4
+latent dirichlet allocation,4
+stopword removal,4
+morphological,4
+lexical,4
+topic modeling,4
+gibbs sampling,4
+ner analysis,4
+dimensionality reduction,"2,4"
+statistical semantics hypothesis,4
+cyk algorithm abeing,4
+bag of words,4
+latent relation hypothesis,4
+emission probablity,4
+co-occurrences,4
+shifted ppmi,4
+transition probability,4
+implicit matrix factorization,4
+word-context matrix,4
+maximum entropy model,4
+maximum entropy markov model,4
+ppmi,4
+condition random field,4
+label bias,4
+positive pmi,4
+dictionary based,4
+knn algorithm,2
+instance-based learning,2
+kernel pca,2
+lagrangian approach,2
+primal problem,2
+spectral,2
+determinant,2
+pca,2
+kkt condition,2
+duality,2
+dual problem,2
+eigen value,2
+som,2
+idempotent,2
+svd,2
+c-svm,2
+eigen vector,2
+square matrix,2
+k-means,2
+svm,2
+mapping function,2
+eigen decomposition,2
+kernel trick,2
+dimensionality reduction,2
+clustering,2
+bagging,2
+variance-bias,2
+adaboost,2
+inductive bias,2
+diagnosing model,2
+aucroc,"2,3"
+roc,"2,3"
+auc,"2,3"
+random forest,2
+early stopping,2
+"type 1,2 error",2
+ensemble,2
+accuracy,2
+confusion matrix,2
+weight decay,2
+presicion,2
+machine learning,2
+dropout,"2,3"
+layer,"2,3"
+f1 score recall,2
+data splitting,"2,3"
+regularization,"2,3"
+normalization batch,"2,3"
+k-fold cross validation,"2,3"
+validation,"2,3"
+logistic regression,2
+linear regression,2
+logits,"2,3"
+sigmoid,"2,3"
+regularized,"2,3"
+mse,"2,3"
+activation function,"2,3"
+tanh,"2,3"
+ridge,"2,3"
+l2,"2,3"
+relu,"2,3"
+lasso,"2,3"
+l1,"2,3"
+leakly rellu,"2,3"
+elastic net,"2,3"
+l1+l2,"2,3"
+nag,"2,3"
+prelu,"2,3"
+frobenius norm,"2,3"
+norm,"2,3"
+adagrad,"2,3"
+gradient descent,"2,3"
+convex function,"2,3"
+elu,"2,3"
+rmsprop,"2,3"
+sgd,"2,3"
+maxout,"2,3"
+learning rate,"2,3"
+adadelta,"2,3"
+representation learnin,"2,3"
+adam,"2,3"
+backpropagation,"2,3"
+nadam,"2,3"
+gradient vanishing,"2,3"
+exploding proof,"2,3"
+regression,"2,3"
+classification,"2,3"
+supervised learning ,"2,3"
+unsupervised learning ,2
+Semi-supervised learning,"2,3"
+reinforcement learning,"2,3"
+image classification,3
+image classification with localization,3
+object detection,3
+object segmentation,3
+image style transfer,3
+image colorization,3
+image reconstruction,3
+image super-resolution,3
+self-supervised learning,2
+multi-instance learning,2
+statistical inference,2
+inductive learning,2
+deductive inference,2
+transductive learning,2
+learning techniques,2
+multi-task learning,2
+active learning,2
+online learning,2
+transfer learning,"2,3"
+ensemble learning,2
+convolutional networks,3
+recurrent networks,3
+autoencoders,"3,4"
+generative models,3
+probabilistic models,3
+frostbite engine,0
+unreal engine,0
+unity,0
+confluence,0
+helix visual client,0
+power bi ,"0,2"
+css,0
+saas,0
+scss,0
+polymer,0
+mocha,0
+chai,0
+jquery,0
+ajax,0
+kotlin,0
+AEM,0
+mysql,0
+dynamodb,0
+lambda,0
+git,0
+oop,"0,1"
+scrum,0
+kanban,0
+microsoft visual studio,0
+microsoft xna,0
+svn,0
+perforce,0
+3ds max,0
+microsoft outlook,9
+google docs,9
+google spreadsheets,9
+google slides,9
+mongodb,0
+angularjs,0
+sql,0
+rust,0
+sfml,0
+sdl,0
+anttweakbar,0
+fmod,0
+imgui,0
+kafka,0
+docker,0
+aws,0
+jenkins,0
+spring boot,0
+spring cloud steam,0
+object-oriented programming,0
+tableau,2
+decision trees,2
+anova,2
+t-test,2
+visual basic,0
+teradata,0
+redis cluster,0
+memcached,0
+prometheus,0
+maven,0
+gradle,0
+mapreduce,2
+visual studio,0
+frosted,0
+g suite,0
+principal component analysis ,2
+xcode,0
+devtrack,0
+hansoft,0
+groovy,0
