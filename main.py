@@ -15,6 +15,8 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords 
 import nltk
 import plotly.graph_objects as go
+nltk.download('punkt')
+nltk.download('stopwords')
 # load pre-trained model
 nlp = spacy.load('en_core_web_sm')
 
